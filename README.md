@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nick</h1>
-<h3 align="center">Passionate IT enthusiast aiming for a career in IT Programming and cloud computing</h3>
+<h3 align="center">Passionate about IT infrastructure and development </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nickngarcia&label=Profile%20views&color=0e75b6&style=flat" alt="nickngarcia" /> </p>
 
