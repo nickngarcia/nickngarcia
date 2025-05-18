@@ -5,7 +5,6 @@
 
 - 🌱 I’m currently learning **Javascript (ServiceNow Dev), Python/Powershell (IT Automation)**
 
-- ⚡ Fun fact **I think I am smart ;) l0l**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
