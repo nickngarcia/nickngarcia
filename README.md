@@ -29,9 +29,20 @@ To take the traditional IT engineer/admin role and combine it with developer and
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
-  </a>
+ <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/atulkamble/Azure-Logo/main/azure.png"
+       alt="Microsoft Azure" width="40" height="40"/>
+</a>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/weibeld/aws-icons-svg/refs/heads/main/misc/aws/AWS_80.svg" 
+       alt="AWS" width="40" height="40"/>
+</a>
+
+<a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/google-cloud.svg" 
+       alt="Google Cloud" width="40" height="40"/>
+</a>
+
   <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" alt="powershell" width="40" height="40"/>
   </a>
@@ -41,4 +52,8 @@ To take the traditional IT engineer/admin role and combine it with developer and
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
 </p>
+
